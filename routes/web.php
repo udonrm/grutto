@@ -18,4 +18,6 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/search-restaurants', [HotpepperController::class, 'searchRestaurants']);
+Route::get('/search', [HotpepperController::class, 'searchRestaurants']);
+
+Route::get('/detail/{id}', [HotpepperController::class, 'showRestaurants'])->name('restaurant.detail');
