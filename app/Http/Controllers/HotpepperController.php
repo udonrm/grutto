@@ -13,7 +13,7 @@ class HotpepperController extends Controller
         $queryParams = $request->query();
         $queryParams['key'] = $apiKey;
         $queryParams['format'] = 'json';
-        $queryParams['count'] = 5;
+        $queryParams['count'] = 10;
         $queryParams['start'] = ($request->input('page', 1) - 1) * $queryParams['count'] + 1;
 
         $response = Http::get('https://webservice.recruit.co.jp/hotpepper/gourmet/v1/', $queryParams);
