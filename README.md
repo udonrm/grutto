@@ -2,6 +2,14 @@
 
 ぐるっと
 
+# 動作イメージ
+
+
+
+https://user-images.githubusercontent.com/115349126/235390293-e333f3df-73a9-46b4-b252-84ebdfbc5af9.mp4
+
+
+
 # 対象 OS およびブラウザ
 
 macOS13.3.1、Google Chrome での動作確認済み
