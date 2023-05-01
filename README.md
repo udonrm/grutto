@@ -27,6 +27,8 @@ Tailwindcss v3.3.2
 Font Awesome v5.15.4
 
 # 設計ドキュメント
+![スクリーンショット 2023-05-01 10 46 50](https://user-images.githubusercontent.com/115349126/235389275-0618a1a6-3637-4937-af9f-d0f420bd3044.png)
+
 
 # コンセプト
 
