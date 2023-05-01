@@ -2,7 +2,7 @@
 
 ぐるっと
 
-公開先ページ：https://grutto.udonrm.com
+公開先ページ：https://grutto.udonrm.com<br>
 エックスサーバーを使用してデプロイしました。
 
 # 動作イメージ
